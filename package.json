@@ -22,7 +22,7 @@
   "repository": "https://github.com/prakhar1989/react-tags",
   "dependencies": {
     "lodash.flow": "^3.3.0",
-    "react-dnd": "^2.0.2",
+    "react-dnd": "git+https://github.com/jcrogel/react-dnd.git",
     "react-dnd-html5-backend": "^2.0.0"
   },
   "peerDependencies": {
