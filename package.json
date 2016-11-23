@@ -26,12 +26,12 @@
     "react-dnd-html5-backend": "^2.0.0"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0-rc",
-    "react-dom": "^0.14.0 || ^15.0.0-rc"
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0"
   },
   "devDependencies": {
-    "react": "^15.1.0",
-    "react-dom": "^15.1.0",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
     "babel-cli": "^6.9.0",
     "babel-core": "^6.0.20",
     "babel-eslint": "^4.1.3",
